@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Kart Micro",
+"productVersion": "1.0",
+"dataUrl": "Kart 1.data.unityweb",
+"wasmCodeUrl": "Kart 1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Kart 1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
